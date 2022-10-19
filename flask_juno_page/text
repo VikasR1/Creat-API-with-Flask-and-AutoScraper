@@ -1,0 +1,9 @@
+with this API, we will be able to see the artist name availble on site.
+to see the artist of another page, just type the page number as shown below
+
+
+http://127.0.0.1:8080/?q=<page_number>
+
+eg.
+
+http://127.0.0.1:8080/?q=5
